@@ -3,6 +3,7 @@
 ---
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<h2 aling="right" <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">>
 
 I’m a Computer Engineering student at Universidad de Santiago (USACH), I’m passionate about all the topics that make up computer engineering, but I have a more interest in software development, i like more frontend than backend.
 - 🌱 I’m currently learning ...
@@ -16,7 +17,7 @@ I’m a Computer Engineering student at Universidad de Santiago (USACH), I’m p
 
 My Skills Include
 
-<h2> Languages </h2>
+<h2> Languages and styling </h2>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -45,7 +46,7 @@ My Skills Include
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>   
   <a href="">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   <a href="">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
