@@ -13,7 +13,7 @@ I’m a Computer Engineering student at Universidad de Santiago (USACH), I’m p
 
 ---
 
-## My Skills Include
+My Skills Include
 
 <h2> Languages </h2>
 <span> 
