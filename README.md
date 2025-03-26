@@ -26,15 +26,15 @@ I’m a Computer Engineering student at Universidad de Santiago (USACH), I’m p
   <img src= "">
   </span>
 
-  <h3> IDEs/Editors </h3>
-  </span>
+<h3> IDEs/Editors </h3>
+</span>
   <img src= "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
   <img src= "https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">
   <img src= "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </span>
   
-  <h3> Frameworks, Platforms and Libraries </h3>
-  </span>
+<h3> Frameworks, Platforms and Libraries </h3>
+</span>
   <img src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </span>
