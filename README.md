@@ -8,6 +8,7 @@ I’m a Computer Engineering student at Universidad de Santiago (USACH), I’m p
 - 🌱 I’m currently learning ...
   - postgreSQL
   - vue.js
+  - figma
 - 🚀 I’m constantly learning and enjoy expanding my technical skills.
 - Outside tech, i love playing football, playing videogames and enjoy listening to music.
 
@@ -32,13 +33,23 @@ My Skills Include
   <img src= "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </span>
   
-<h3> Frameworks, Platforms and Libraries </h3>
+<h4> Frameworks, tools, Platforms and Libraries </h4>
 <span>
   <img src= "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img width="48px" src="https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>
 
+## Check out my social Media
+  <a href="">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>   
+  <a href="">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>   
+    <a href="">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>   
 ---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRioseco&layout=compact&theme=radical" alt="My Github Stats">
