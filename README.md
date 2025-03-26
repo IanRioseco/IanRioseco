@@ -39,17 +39,6 @@ My Skills Include
   <img src= "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </span>
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanRioseco&layout=compact&theme=radical" alt="My Github Stats">
