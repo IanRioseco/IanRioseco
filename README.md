@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hi , I'm Ian Rioseco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ---
+<img align="right" width=300px alt="Unicorn" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-<h2 aling="right" <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">>
 
 I’m a Computer Engineering student at Universidad de Santiago (USACH), I’m passionate about all the topics that make up computer engineering, but I have a more interest in software development, i like more frontend than backend.
 - 🌱 I’m currently learning ...
