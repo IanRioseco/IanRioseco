@@ -9,7 +9,6 @@ I’m a Computer Engineering student at Universidad de Santiago (USACH), I’m p
 - 🌱 I’m currently learning ...
   - postgreSQL
   - vue.js
-  - figma
 - 🚀 I’m constantly learning and enjoy expanding my technical skills.
 - Outside tech, i love playing football, playing videogames and enjoy listening to music.
 
